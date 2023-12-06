@@ -15,7 +15,7 @@ The 'raw' data is obtained by using the [Smell Inspector device with the Smell A
 
 The raw measurements from the Smell Annotator are stored in the "raw" directory.
 
-There are 7 different fruit smells, each with multiple samples.
+There are 7 different fruit smells, each with multiple samples collected in the office and home using the natural indoor and outdoor conditions during the day and night for packed and unpacked fruit.
 
 ## Dataset Parser
 The parser combines the raw files, removes unused features, and prepares a dataset for classifier algorithm training.
