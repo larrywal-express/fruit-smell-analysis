@@ -55,17 +55,17 @@ python corr_ht.py
 ```
 
 ## Classifiers
-The classifier algorithms trained  accross 7 classes
+The classifier algorithms trained  accross 7 classes 45 active features, including humidity and temperature
 
 |              Model                         | f1-score | train_acc | valid_acc |
 |:---------------------------------------:|:-----------:|:-----------:|:------------:|
-|   Logistic Regression                |    0.29    |    0.30    |     0.29     |
+|   Logistic Regression                |    0.27    |    0.30    |     0.29     |
 |   KNeighbors                           |     0.93    |    0.97    |     0.93     |
-|   Support Vector Machines       |     0.23    |    0.23    |     0.23    |
+|   Support Vector Machines       |     0.20    |    0.23    |     0.23    |
 |   Decision Tree                        |     0.95    |    1.0      |     0.95    |
-|   Gaussian NB                         |     0.14    |    0.14    |     0.14    |
+|   Gaussian NB                         |     0.06    |    0.14    |     0.14    |
 |   Random Forest                     |     0.99    |     1.0     |     0.99    |
-|   Stochastic Gradient Descent  |     0.31    |    0.29    |     0.31    |
+|   Stochastic Gradient Descent  |     0.29    |    0.29    |     0.31    |
 |   Artificial Neural Network         |     0.93    |    0.94    |     0.93    |
 
 ## Training
