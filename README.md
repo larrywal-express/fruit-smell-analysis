@@ -54,6 +54,11 @@ The correlation plot of features
 python corr_ht.py
 ```
 
+For two most activate features (ch36 and humidity)
+```
+python feature.py
+```
+
 ## Classifiers
 The classifier algorithms trained  accross 7 classes 45 active features, including humidity and temperature
 
@@ -69,11 +74,6 @@ The classifier algorithms trained  accross 7 classes 45 active features, includi
 |   Artificial Neural Network         |     0.93    |    0.94    |     0.93    |
 
 ## Training
-For two most activate features
-```
-python feature.py
-```
-
 For all features
 ```
 python classifier.py
