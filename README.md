@@ -48,7 +48,7 @@ The dataset detail visualization on a scatter plot
 ```
 python detail.py 
 ```
-![Data_Visualization](results/class.jpg)
+![Class_Visualization](results/class.jpg)
 
 The correlation plot of features
 ```
