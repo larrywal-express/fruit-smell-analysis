@@ -30,7 +30,7 @@ The dataset visualization on a scatter plot using t-distributed stochastic neigh
 ```
 python t-SNE.py 
 ```
-![Data_Visualization](results/smell_dataset_viz.jpg)
+![t-SNE](results/smell_dataset_viz.jpg)
 
 ```
 {
@@ -48,12 +48,13 @@ The dataset detail visualization on a scatter plot
 ```
 python detail.py 
 ```
-![Class_Visualization](results/class.jpg)
+![Class](results/class.jpg)
 
 The correlation plot of features
 ```
 python corr_ht.py
 ```
+![Correlation](results/corrHT.jpg)
 
 For two most activate features (ch36 and humidity)
 ```
